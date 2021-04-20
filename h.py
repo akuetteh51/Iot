@@ -1,0 +1,2 @@
+d="food"
+print(d)
